@@ -10,7 +10,5 @@
 
 <hr>
 <strong>Espero que aproveite</strong>
-
-
-# :happy:
+# :smiley:
 
