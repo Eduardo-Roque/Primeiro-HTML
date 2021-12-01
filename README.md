@@ -9,7 +9,8 @@
   
 
 <hr>
-**Espero que aproveite**
+<strong>Espero que aproveite</strong>
+
 
 # :happy:
 
